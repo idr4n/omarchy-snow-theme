@@ -1,0 +1,33 @@
+
+# Alacritty Ash Theme
+
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[colors.primary]
+background = "#ffffff"
+foreground = "#1c1c1c"
+
+[colors.cursor]
+text = "CellBackground"
+cursor = "CellForeground"
+
+[colors.normal]
+black = "#e0e0e0"
+red = "#1c1c1c"
+green = "#1c1c1c"
+yellow = "#1c1c1c"
+blue = "#1c1c1c"
+magenta = "#1c1c1c"
+cyan = "#1c1c1c"
+white = "#1c1c1c"
+
+[colors.bright]
+black = "#f0f0f0"
+red = "#1c1c1c"
+green = "#1c1c1c"
+yellow = "#1c1c1c"
+blue = "#1c1c1c"
+magenta = "#1c1c1c"
+cyan = "#1c1c1c"
+white = "#1c1c1c"
