@@ -39,7 +39,7 @@ This theme includes configurations for:
 ## Neovim theme
 [https://github.com/bjarneo/snow.nvim](https://github.com/bjarneo/snow.nvim)
 
-## Dark mode? Meet ash.
+## Complementary theme, Ash
 [https://github.com/bjarneo/omarchy-ash-theme](https://github.com/bjarneo/omarchy-ash-theme)
 
 ## X.com
