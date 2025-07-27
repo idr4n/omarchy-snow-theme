@@ -21,21 +21,6 @@ To install this theme, simply use the `omarchy-theme-install` command:
 omarchy-theme-install https://github.com/bjarneo/omarchy-snow-theme
 ```
 
-## Included Configurations
-
-This theme includes configurations for:
-
-- Alacritty (alacritty.toml)
-- btop (btop.theme)
-- Hyprland (hyprland.conf, hyprlock.conf)
-- Mako (mako.ini)
-- Neovim (neovim.lua)
-- Waybar (waybar.css)
-- Wofi (wofi.css)
-- Walker (walker.css)
-- SwayOSD (swayosd.css)
-- Desktop Background (backgrounds/snow.jpg)
-
 ## Neovim theme
 [https://github.com/bjarneo/snow.nvim](https://github.com/bjarneo/snow.nvim)
 
