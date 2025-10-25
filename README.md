@@ -1,17 +1,8 @@
-# Omarchy Snow Theme
+**Note**: This is a fork of the [Omarchy Snow Theme](https://github.com/bjarneo/omarchy-snow-theme) containing a few tweaks:
 
-This is the Snow Theme for [Omarchy.org](https://omarchy.org), providing a cohesive and visually appealing configuration set for your Linux desktop environment.
-
-<p align="center">
-  <img src="theme.png" alt="Snow Theme Preview">
-</p>
-
-> A whisper soft, a silent fall,  
-> Of crystals drifting, heeding winter's call.  
-> A silver blanket, on the dark earth spread,  
-> A memory of the green life fled.  
-> This is the snow, the soft and white,  
-> The quiet dream of a frozen night.  
+- Added Kitty terminal theme
+- Added Chromium terminal theme
+- Change the active window border to be darker
 
 ## Installation
 
@@ -27,5 +18,6 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-snow-theme
 ## Complementary theme, Ash
 [https://github.com/bjarneo/omarchy-ash-theme](https://github.com/bjarneo/omarchy-ash-theme)
 
-## X.com
-[iamdothash](https://x.com/iamdothash)
+## Credits
+X.com: [iamdothash](https://x.com/iamdothash)
+
